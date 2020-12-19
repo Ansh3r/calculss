@@ -1,0 +1,1 @@
+[{"Steps":"32362-32*4\n32362-128\n32234","MathExpression":"32362-32*4","Action":"32362-32*4 = 32234","Result":32234.0,"HasError":false,"ErrorMessage":null},{"Steps":"05-34*2+32425\n05-68+32425\n-63+32425\n32362","MathExpression":"05-34*2+32425","Action":"05-34*2+32425 = 32362","Result":32362.0,"HasError":false,"ErrorMessage":null}]
